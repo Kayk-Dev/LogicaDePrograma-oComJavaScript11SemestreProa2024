@@ -1,2 +1,2 @@
-# LogicaDePrograma-oComJavaScript11SemestreProa2024
+# LogicaDeProgramaçãoComJavaScript1SemestreProa2024
 Atividades de Logica de Programação
