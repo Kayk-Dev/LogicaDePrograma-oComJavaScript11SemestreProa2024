@@ -1,16 +1,16 @@
 Algoritmo "AREA"
-// Disciplina   : [Lógica de programação coma Java Script]
+// Disciplina   : [LÃ³gica de programaÃ§Ã£o coma Java Script]
 // Professor   : Jailson
-// Descrição   : Calcular a Area
+// DescriÃ§Ã£o   : Calcular a Area
 // Autor(a)    : Kayk Messias Gomes
 // Data atual  : 18/03/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 base: real
 altura: real
 multiplicacao: real
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
  Escreva("Digite a base do retalgulo: ")
  Leia(base)
  Escreva("Digite a altura do retalgulo: ")
@@ -18,5 +18,5 @@ Inicio
  
  multiplicacao<-base*altura
  Escreval
- Escreva("A area desse retângulo é:", multiplicacao)
+ Escreva("A area desse retÃ¢ngulo Ã©:", multiplicacao)
 Fimalgoritmo
