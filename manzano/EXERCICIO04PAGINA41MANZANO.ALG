@@ -1,15 +1,15 @@
 Algoritmo "Exercicio04pagina41manzano"
-// Disciplina   : [Lógica de Programação]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Jailson
-// Descrição   :
+// DescriÃ§Ã£o   :
 // Autor(a)    : Kayk Messias Gomes
 // Data atual  : 26/03/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 numero1, numero2, total : inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 Escreval("DIgite o primeiro numero")
 Leia(numero1)
 Escreval("DIgite o segundo numero")
@@ -17,10 +17,10 @@ Leia(numero2)
 
 se numero1 > numero2 entao
 total<- numero1 - numero2
-Escreval("A diferença entre o primeiro numero e o segundo e: ", total)
+Escreval("A diferenÃ§a entre o primeiro numero e o segundo e: ", total)
 senao
 total<- numero2 - numero1
-Escreval("A diferença entre o segundo numero e o primeiro e: ", total)
+Escreval("A diferenÃ§a entre o segundo numero e o primeiro e: ", total)
 fimse
 
 
